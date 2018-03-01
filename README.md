@@ -1,0 +1,1 @@
+[![Docker Build Status](https://img.shields.io/docker/automated/parpe/circleci-node-image.svg)](https://hub.docker.com/r/parpe/circleci-node-image/)

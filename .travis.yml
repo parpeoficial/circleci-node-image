@@ -1,0 +1,12 @@
+sudo: required
+
+language: ruby
+
+services:
+  - docker
+
+before_install:
+  - cd v6.13.0/ && docker build -t circleci-node-image:6.13.0 .
+
+notifications:
+  slack: parpe:ypxSy7CvUXYAShDK7C3supzV
