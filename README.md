@@ -11,7 +11,7 @@ An image with node.js to run tests in the CircleCI
 
 - Common tools used in development and CI are installed e.g. `git`, `ssh`, `tar`, `ca-certificates`, `curl`, `wget`.
 - Docker tools: latest `docker`, `docker-compose`, and `dockerize` are installed
-- Bonus tools: `jq1.5`
+- Bonus tools: `jq1.5`, `awscli`
 - Use a `root` user by default
 
 ## Usage
