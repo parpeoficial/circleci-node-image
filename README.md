@@ -27,10 +27,10 @@ This image makes browser testing easier. It extends the defacto image and instal
 
 | Common  | Browser Testing |
 | ------------- | ------------- |
-| 6.13.0  | 6.13.0-browsers  |
+| 8.9.4  | 8.9.4-browsers  |
 
 ## Unstable Versions
 
 | Common  | Browser Testing |
 | ------------- | ------------- |
-| 6.13.0-dev  | 6.13.0-browsers-dev  |
+| 8.9.4-dev  | 8.9.4-browsers-dev  |
